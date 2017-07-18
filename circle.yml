@@ -5,6 +5,9 @@ machine:
     version: 2.4.0
   timezone:
     Asia/Tokyo
+dependencies:
+  override:
+  - gem install github_changelog_generator
 deployment:
   deploy:
     branch: master
