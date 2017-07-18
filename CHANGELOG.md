@@ -2,6 +2,14 @@
 
 ## [Unreleased](https://github.com/ma-bo-do-fu/circleci_test/tree/HEAD)
 
+**Fixed bugs:**
+
+- test\_2 [\#2](https://github.com/ma-bo-do-fu/circleci_test/pull/2) ([ma-bo-do-fu](https://github.com/ma-bo-do-fu))
+
+**Closed issues:**
+
+- sample issue [\#3](https://github.com/ma-bo-do-fu/circleci_test/issues/3)
+
 **Merged pull requests:**
 
 - Test [\#1](https://github.com/ma-bo-do-fu/circleci_test/pull/1) ([ma-bo-do-fu](https://github.com/ma-bo-do-fu))
