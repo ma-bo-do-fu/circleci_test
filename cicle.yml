@@ -3,6 +3,6 @@ machine:
     version: 6
   ruby:
     version:
-      1.8.7-p358-falcon-perf
+      2.4.0
   timezone:
-    Asia/
+    Asia/Tokyo
