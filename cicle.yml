@@ -2,7 +2,11 @@ machine:
   node:
     version: 6
   ruby:
-    version:
-      2.4.0
+    version: 2.4.0
   timezone:
     Asia/Tokyo
+deployment:
+  deploy:
+    branch: master
+    commands:
+      - github_changelog_generator ma-bo-do-fu/circleci_test
