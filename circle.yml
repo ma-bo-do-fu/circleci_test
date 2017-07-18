@@ -12,4 +12,4 @@ deployment:
   deploy:
     branch: master
     commands:
-      - github_changelog_generator -t ${CHANGELOG_GITHUB_TOKEN} ma-bo-do-fu/circleci_test
+      - github_changelog_generator -t ${CHANGELOG_GITHUB_TOKEN} -u ma-bo-do-fu -p circleci_test
