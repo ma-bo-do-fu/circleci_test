@@ -8,6 +8,7 @@
 
 **Fixed bugs:**
 
+- bug fix [\#11](https://github.com/ma-bo-do-fu/circleci_test/pull/11) ([ma-bo-do-fu](https://github.com/ma-bo-do-fu))
 - test\_2 [\#2](https://github.com/ma-bo-do-fu/circleci_test/pull/2) ([ma-bo-do-fu](https://github.com/ma-bo-do-fu))
 
 **Closed issues:**
@@ -16,6 +17,9 @@
 
 **Merged pull requests:**
 
+- \[ci skip\] \[auto\] release branch \(v20170719125126\) [\#10](https://github.com/ma-bo-do-fu/circleci_test/pull/10) ([ma-bo-do-fu](https://github.com/ma-bo-do-fu))
+- \[ci skip\] \[auto\] release branch \(v20170719124424\) [\#9](https://github.com/ma-bo-do-fu/circleci_test/pull/9) ([ma-bo-do-fu](https://github.com/ma-bo-do-fu))
+- \[auto\] release branch \(v20170719124034\) [\#8](https://github.com/ma-bo-do-fu/circleci_test/pull/8) ([ma-bo-do-fu](https://github.com/ma-bo-do-fu))
 - \[auto\] release branch \(v20170719123552\) [\#7](https://github.com/ma-bo-do-fu/circleci_test/pull/7) ([ma-bo-do-fu](https://github.com/ma-bo-do-fu))
 - \[auto\] release branch \(v20170719122533\) [\#6](https://github.com/ma-bo-do-fu/circleci_test/pull/6) ([ma-bo-do-fu](https://github.com/ma-bo-do-fu))
 - \[auto\] release branch \(v20170719122200\) [\#5](https://github.com/ma-bo-do-fu/circleci_test/pull/5) ([ma-bo-do-fu](https://github.com/ma-bo-do-fu))
