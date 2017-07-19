@@ -2,6 +2,10 @@
 
 ## [Unreleased](https://github.com/ma-bo-do-fu/circleci_test/tree/HEAD)
 
+**Implemented enhancements:**
+
+- this is enhancement [\#4](https://github.com/ma-bo-do-fu/circleci_test/pull/4) ([ma-bo-do-fu](https://github.com/ma-bo-do-fu))
+
 **Fixed bugs:**
 
 - test\_2 [\#2](https://github.com/ma-bo-do-fu/circleci_test/pull/2) ([ma-bo-do-fu](https://github.com/ma-bo-do-fu))
@@ -12,6 +16,8 @@
 
 **Merged pull requests:**
 
+- \[auto\] release branch \(v20170719122533\) [\#6](https://github.com/ma-bo-do-fu/circleci_test/pull/6) ([ma-bo-do-fu](https://github.com/ma-bo-do-fu))
+- \[auto\] release branch \(v20170719122200\) [\#5](https://github.com/ma-bo-do-fu/circleci_test/pull/5) ([ma-bo-do-fu](https://github.com/ma-bo-do-fu))
 - Test [\#1](https://github.com/ma-bo-do-fu/circleci_test/pull/1) ([ma-bo-do-fu](https://github.com/ma-bo-do-fu))
 
 
