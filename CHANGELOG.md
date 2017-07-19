@@ -2,6 +2,10 @@
 
 ## [Unreleased](https://github.com/ma-bo-do-fu/circleci_test/tree/HEAD)
 
+**Implemented enhancements:**
+
+- this is enhancement [\#4](https://github.com/ma-bo-do-fu/circleci_test/pull/4) ([ma-bo-do-fu](https://github.com/ma-bo-do-fu))
+
 **Fixed bugs:**
 
 - test\_2 [\#2](https://github.com/ma-bo-do-fu/circleci_test/pull/2) ([ma-bo-do-fu](https://github.com/ma-bo-do-fu))
