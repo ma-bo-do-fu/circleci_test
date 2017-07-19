@@ -16,6 +16,7 @@
 
 **Merged pull requests:**
 
+- \[auto\] release branch \(v20170719123552\) [\#7](https://github.com/ma-bo-do-fu/circleci_test/pull/7) ([ma-bo-do-fu](https://github.com/ma-bo-do-fu))
 - \[auto\] release branch \(v20170719122533\) [\#6](https://github.com/ma-bo-do-fu/circleci_test/pull/6) ([ma-bo-do-fu](https://github.com/ma-bo-do-fu))
 - \[auto\] release branch \(v20170719122200\) [\#5](https://github.com/ma-bo-do-fu/circleci_test/pull/5) ([ma-bo-do-fu](https://github.com/ma-bo-do-fu))
 - Test [\#1](https://github.com/ma-bo-do-fu/circleci_test/pull/1) ([ma-bo-do-fu](https://github.com/ma-bo-do-fu))
