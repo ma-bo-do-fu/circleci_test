@@ -17,6 +17,6 @@ github_changelog_generator -t ${CHANGELOG_GITHUB_TOKEN} -u ma-bo-do-fu -p circle
 #変更ファイルををすべて追加
 git add --all :/
 #コミット
-git commit -m "[auto] release branch (${CI_RELEASE_VERSION})"
+git commit -m "[ci skip] [auto] release branch (${CI_RELEASE_VERSION})"
 #リモートにプッシュ
 git push ${CI_REMOTE_REPOSITORY} ${CI_RELEASE_BRANCH}
